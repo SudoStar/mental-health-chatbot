@@ -24,7 +24,7 @@ Markdown
 MarkupSafe 
 matplotlib 
 nltk 
-numpy==1.25.2
+numpy
 oauthlib 
 opt-einsum 
 pandas 
@@ -49,8 +49,8 @@ tzdata
 urllib3 
 Werkzeug 
 wrapt
-torch==2.2.0 
-torchtext==0.17.0 
+pytorch
+torchtext
 torchvision 
 datasets 
 evaluate 
